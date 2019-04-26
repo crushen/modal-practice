@@ -1,0 +1,14 @@
+body {
+  background: #e8eaf6 ;
+}
+
+h1 {
+  background: #5c6bc0;
+  color: #FFF;
+}
+
+.thumbnails {
+  width: 175px;
+  border: #FFF solid 4px;
+  border-radius: 10px;
+}
