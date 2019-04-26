@@ -2,13 +2,32 @@ body {
   background: #e8eaf6 ;
 }
 
-h1 {
-  background: #5c6bc0;
+nav {
+  padding: 0.5em 0;
+  background: #7986cb;
   color: #FFF;
+}
+
+h1 {
+  width: 90%;
+  margin: auto;
+}
+
+section {
+  width: 90%;
+  margin: auto;
+}
+
+p {
+  padding: 3em 0 0 0;
 }
 
 .thumbnails {
   width: 175px;
+  margin-right: 10px;
   border: #FFF solid 4px;
   border-radius: 10px;
+  -webkit-box-shadow: 8px 8px 28px -13px rgba(0,0,0,0.49);
+  -moz-box-shadow: 8px 8px 28px -13px rgba(0,0,0,0.49);
+  box-shadow: 8px 8px 28px -13px rgba(0,0,0,0.49);
 }
