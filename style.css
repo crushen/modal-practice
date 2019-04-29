@@ -1,16 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,700');
+
 body {
   background: #e8eaf6 ;
+  color: #444;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 nav {
-  padding: 0.5em 0;
+  padding: 1em 0;
   background: #7986cb;
-  color: #FFF;
+
 }
 
 h1 {
   width: 90%;
   margin: auto;
+  color: #FFF;
 }
 
 section {
@@ -18,8 +23,8 @@ section {
   margin: auto;
 }
 
-p {
-  padding: 3em 0 0 0;
+h2 {
+  padding: 2em 0 0 0;
 }
 
 .thumbnails {
